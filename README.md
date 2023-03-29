@@ -19,7 +19,7 @@ We aim to provide the higher authorities responsible for sanitation and cleaning
   2. It broadcasts the location(Latitude and Longitude) in JSON format through websocket
 - Tech Stack :- Ardupilot SITL,Dronekit SDK,Websockets using asyncio
 - Website: [Swatch-Campus](https://sarvagnyadesh.github.io/Swatch-Campus)
-
+![Screenshot 2023-03-29 080739](https://user-images.githubusercontent.com/120354771/228412366-9e120688-6767-4b08-9ff0-dc9917775ac4.png)
 ## Trash Detection Client
 - On user demand the drone will sent images to the TDC.
   1. First the drone will upload the images to the FireBase.
